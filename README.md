@@ -21,12 +21,12 @@ It's all the things that i need
  
 2. Useful Links
  * [Gradient(Editor)](http://www.colorzilla.com/gradient-editor/)
- * Ali.md/
-   * cpl
-   * sl2
-     * /pc
-   * jsss
-   * ask
+ * [Ali.MD/](http://Ali.md/)
+   * [cpl](http://Ali.md/cpl)
+   * [sl2](http://Ali.md/sl2)
+     * [/pc](http://Ali.md/sl2/pc)
+   * [jsss](http://Ali.md/jsss)
+   * [ask](http://Ali.md/ask)
    * 
    
 3. Good CSS Properties :
