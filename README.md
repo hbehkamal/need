@@ -14,13 +14,17 @@ It's all the things that i need
 1. Menu
  * [Simple Menu](http://jsbin.com/ivohay/66/quiet)
  * [Simple Classic Menu](http://jsbin.com/elawad/32)
- * [Simple Blur Menu](http://jsbin.com/ivohay/56)
+ * [Simple Blur Menu](http://jsbin.com/ivohay/56) [and also](http://jsbin.com/idelap/4)
  * [Simple PopUp Menu](http://jsbin.com/odecal/2)
  * [Menu With Submenu](http://jsbin.com/aqafin/6)
  * [Angry Menu](http://jsbin.com/izijih/3/quiet)
+ * [Nestes Menu(2dar2)](http://jsbin.com/oxucin/10)
+ * [Vertical Menu1](http://jsbin.com/ahogin/4)
+ * [Vertical Menu2](http://jsbin.com/uvecej/7)
  
 2. Useful Links
  * [Gradient(Editor)](http://www.colorzilla.com/gradient-editor/)
+ * [Css Patterns](http://lea.verou.me/css3patterns/)
  * [Ali.MD/](http://Ali.md/)
    * [cpl](http://Ali.md/cpl)
    * [sl2](http://Ali.md/sl2)
@@ -35,4 +39,10 @@ It's all the things that i need
  * [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
  * 
  
-4. [Css Patterns](http://lea.verou.me/css3patterns/)
+4. In Project LINKs :
+ * [Font Awesome](http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css)
+ * [Html5Shive]
+ * [JQuery]
+ * [Zepto]
+ * [1Grid]
+ * [1reset]
