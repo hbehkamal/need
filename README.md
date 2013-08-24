@@ -3,12 +3,12 @@ It's all the things that i need
 
 ###Tips
 
-1. madar `height` bachehaye `float` dar ro nemigire
-2. `width : auto` be manaye <b>bishtarin</b> arz momkene
-3. `height: auto` be manaye <b>kamtarin</b> ertefaye momkene
-4. `width : 100%` be manaye `100%` arz babashe !
-5.  olaviyat (zoor) `width : auto` bishtar az `margin : auto`
-6. `width : auto; float : left` be manaye kamtarin arz momkene vali ertefaye bache haye float dar ro migire !
+ * madar `height` bachehaye `float` dar ro nemigire
+ * `width : auto` be manaye <b>bishtarin</b> arz momkene
+ * `height: auto` be manaye <b>kamtarin</b> ertefaye momkene
+ * `width : 100%` be manaye `100%` arz babashe !
+ *  olaviyat (zoor) `width : auto` bishtar az `margin : auto`
+ * `width : auto; float : left` be manaye kamtarin arz momkene vali ertefaye bache haye float dar ro migire !
 
 
 1. Menu
